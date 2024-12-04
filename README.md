@@ -4,10 +4,10 @@ Hit at Moment is a rhythm game designed to offer an exciting and challenging gam
 
 How to Play:
 
-Choose a Song: Explore the available music library and pick the song you want to play.
-Follow the Beat: As the music starts, pay attention to the musical notes descending from the right of the screen.
-Press the Buttons: When the musical note reaches the attack point, press either the F or J key according to the direction indicated by the note.
-Achieve High Scores: The more notes you hit accurately and on time, the higher your score will be.
+- Choose a Song: Explore the available music library and pick the song you want to play.
+- Follow the Beat: As the music starts, pay attention to the musical notes descending from the right of the screen.
+- Press the Buttons: When the musical note reaches the attack point, press either the F or J key according to the direction indicated by the note.
+- Achieve High Scores: The more notes you hit accurately and on time, the higher your score will be.
 
 The Technology Behind Hit at Moment:
 
