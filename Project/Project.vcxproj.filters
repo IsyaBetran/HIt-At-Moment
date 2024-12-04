@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Shader Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Game Files">
+      <UniqueIdentifier>{34b4a4c9-782e-4ce9-bfa3-88e3da53d66a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Header Files">
+      <UniqueIdentifier>{033aa0ec-e104-4760-bbdc-11943c08bdc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Asset">
+      <UniqueIdentifier>{25913f35-604d-45e2-85dd-4e7527d4ed48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sprite.frag">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="sprite.vert">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="text.frag">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="text.vert">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="Asset\A_Bit_Of_Hope_-_David_Fesliyan.ogg">
+      <Filter>Asset</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Setting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Quad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BoundingBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Music.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SATCollision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Game Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FirstMusic.h">
+      <Filter>Game Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Note.h">
+      <Filter>Game Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Game Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Game Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameData.h">
+      <Filter>Game Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MusicNoteReader.h">
+      <Filter>Game Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EndScoreDisplay.h">
+      <Filter>Game Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Game Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HighScoreManager.h">
+      <Filter>Game Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pause.h">
+      <Filter>Game Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SplashScreen.h">
+      <Filter>Game Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Setting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BoundingBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Music.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SATCollision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Quad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Launcher.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstMusic.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Note.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameData.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicNoteReader.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EndScoreDisplay.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HighScoreManager.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pause.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SplashScreen.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Asset\PlaneSprite.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Samurai_Spritelist.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\Point.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\shuriken.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\bg_combo.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\End_score_bg.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\EnterButton.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\bg main manu.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\main_menu.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\firstMusicLogo.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\upcomingLogo.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\enter and exit.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\restart_sprite.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\resume_sprite.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\home_sprite.png">
+      <Filter>Asset</Filter>
+    </Image>
+    <Image Include="Asset\Logo.png">
+      <Filter>Asset</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="8-bit Arcade In.ttf">
+      <Filter>Asset</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Asset\FirstMusicPointTime.txt">
+      <Filter>Asset</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
